@@ -7,7 +7,7 @@
    ###### ▪ Семантична та адаптивна верстка; 
    ###### ▪ Pixel perfect; 
    ###### ▪ Побудова логіки на JavaScript;
-   ######`▪ Використання фреймворку Bootstrap;
+   ###### ▪ Використання фреймворку Bootstrap;
 3. [Flexbox-Template](https://sone69.github.io/flexbox-template/)
    ###### ▪ Семантична та адаптивна верстка; 
    ###### ▪ Pixel perfect; 
