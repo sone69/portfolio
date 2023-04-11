@@ -1,5 +1,5 @@
 # My projects:
-https://anti-war-movement-of-ukr-cb295.web.app/ua/home
+
 1. [Anti-war movement of Ukraine](https://anti-war-movement-of-ukr-cb295.web.app/ua/home)
    ###### ▪ Використання фреймворку Angular;
    ###### ▪ Семантична та адаптивна верстка; 
